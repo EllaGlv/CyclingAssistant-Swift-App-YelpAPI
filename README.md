@@ -9,16 +9,22 @@ Cycling Assistant allows you to receive up-to-date information about the best lo
 ## Features
 * Swift Programming Language
 * UIStackView, UITableView, UITableViewCell, Structured files
+
 ![alt text](ReadmeImages/XcodeView.png "XcodeView")
+
 * UIKit, MapKit, CoreLocation
+
 ![alt text](ReadmeImages/Screenshots.png "Screenshots")
-* Activity Indicator, completionHandler⋅⋅
+
+* Activity Indicator, completionHandler
+
 ![alt text](ReadmeImages/ActivityIndicator.png "ActivityIndicator")
+
 
 ## How to build
 1. Clone the repository
 ```
-$ git clone git@github.com:EllaGlv/cycling-assistant-ios-app.git
+$ git clone https://github.com/EllaGlv/cycling-assistant-ios-app.git
 ```
 2. Open the project in Xcode
 ```
