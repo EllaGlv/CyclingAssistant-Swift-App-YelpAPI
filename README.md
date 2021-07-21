@@ -30,7 +30,7 @@ $ git clone https://github.com/EllaGlv/cycling-assistant-ios-app.git
 ```
 $ open "CyclingAssistant.xcodeproj"
 ```
-3. Sign up on [https://www.yelp.com/login](https://www.yelp.com/login) to get an API ID
+3. Sign up on [https://www.yelp.com/login](https://www.yelp.com/login) to get an API ID. 
 In file “DataManager.swift” (line 20) please replace  “MyYelpApiKey” on your API ID
 
 4. Compile and run the app in your simulator or on the device.
